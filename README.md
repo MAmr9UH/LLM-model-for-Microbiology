@@ -1,6 +1,6 @@
 # 🧬 LLM-Powered Microbiology Assistant
 
-An intelligent assistant built using LangChain, LLaMA 3, and Adaptive Retrieval-Augmented Generation (RAG) to support microbiology students and faculty with syllabus guidance, scientific resources, and cumulative academic knowledge.
+An intelligent assistant built using LangChain, LLaMA 3, and Adaptive Retrieval-Augmented Generation (RAG) to support microbiology students and faculty with syllabus guidance, scientific resources, and cumulative academic knowledg
 ---
 
 ## 🎓 What Students Can Do
