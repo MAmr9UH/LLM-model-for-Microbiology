@@ -15,7 +15,7 @@
 
 5- Learn from questions and answers compiled from previous years
 
-6- View past students’ responses to common questions
+6- View past student's responses to common questions
 
 
 ### Introduction
