@@ -13,6 +13,10 @@
 
 4- Learn from questions and answers shared by previous students
 
+5- Learn from questions and answers compiled from previous years
+
+6- View past students’ responses to common questions
+
 
 ### Introduction
 
