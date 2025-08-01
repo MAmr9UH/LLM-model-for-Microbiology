@@ -73,7 +73,6 @@ This app can be deployed using:
 
 - [Streamlit Community Cloud](https://streamlit.io/cloud) (free, public hosting)  
 - [Firebase Hosting](https://firebase.google.com/products/hosting)  
-- [Render](https://render.com/) or [Fly.io](https://fly.io/) for backend/API
 
 ---
 
