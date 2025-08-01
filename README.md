@@ -5,13 +5,13 @@
 
 ## **Students can:**
 
-Ask about syllabus content
+1- Ask about syllabus content
 
-Get explanations for syllabus topics
+2- Get explanations for syllabus topics
 
-Access resources (e.g., books, videos, research papers)
+3- Access resources (e.g., books, videos, research papers)
 
-Learn from questions and answers shared by previous students
+4- Learn from questions and answers shared by previous students
 
 
 ### Introduction
