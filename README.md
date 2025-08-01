@@ -3,7 +3,7 @@
 
 
 
-Students can:
+**Students can:**
 
 Ask about syllabus content
 
