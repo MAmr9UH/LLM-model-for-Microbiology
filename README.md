@@ -39,7 +39,8 @@ It is designed to help both **students** (for learning and exam prep) and **facu
 ## ⚙️ Technologies Used
 
 - 🖥️ **Frontend**: [Streamlit](https://streamlit.io/)  
-- 🧠 **Model**: [LLaMA 3 70B on Groq](https://groq.com/) – Fast inference  
+- 🧠 **Model**: [LLaMA 3 70B on Groq](https://groq.com/) – Fast inference
+- 🧠 **Embdeing**: all-MiniLM-L6-v2 from Hugging Face
 - ☁️ **Hosting**: Firebase Hosting  
 - 🔗 **LangChain** for orchestration
 - 🧠 **Adaptive RAG**: Smart retrieval strategy that adjusts based on query type (factual, exploratory, or historical)
